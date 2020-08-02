@@ -2,7 +2,7 @@
 A geo-based social network web application, support to search nearby posts and filter the posts with face filtering technique。
 
 * Frond-End: Implemented by React.js. Created a token based register/login/logout flow. <br>
-Desigin home page includes register and login by using React Router.<br>
+Design home page includes register and login by using React Router.<br>
 Link to a react router setup demo to my other repo: (https://github.com/12ccloud/React-Router-setup-demo)
 * Back-End:Implemented by Golang. 
   - Set up cloud project on Google Compute Engine(GCE) instance.(VM instance)
